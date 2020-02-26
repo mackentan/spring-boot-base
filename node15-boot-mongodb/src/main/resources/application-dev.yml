@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+#      uri: mongodb://root:root@localhost:27017/admin
+      uri: mongodb://10.110.147.37:8008/saas_source_backup
