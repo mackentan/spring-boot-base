@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <!--testmaste-->
+        <!-- testconfilit-->
         <!-- SpringBoot 2.0 入门基础 -->
         <module>node01-boot-hello</module>
         <!-- SpringBoot 2.0 配置日志打印 -->
